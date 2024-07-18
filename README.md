@@ -4,4 +4,4 @@ Key Features Data Analysis: Utilizes Pearson, Spearman, and Kendall correlations
 
 Technologies Used Python TensorFlow NumPy, pandas Matplotlib, seaborn for visualizations
 
-Data The dataset used is the Loan Eligibility dataset. Ensure that you have the correct path set in your script to where the dataset is stored.
+Data The dataset used is the Loan Eligibility dataset.
